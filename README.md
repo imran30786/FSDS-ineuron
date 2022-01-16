@@ -1,1 +1,1 @@
-# FSDS-ineuron
+Full Stack Data Science Course - ineuron
